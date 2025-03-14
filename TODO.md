@@ -1,0 +1,1 @@
+- changes to allow users to set simple password and generate a strong key from it to use
